@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Support/QTFColors.js</file>
+        <file>QML/QTFButton.qml</file>
+        <file>Support/Images/QTFSplashScreen.png</file>
+        <file>Support/Images/QTFBack_Active.png</file>
+        <file>Support/Images/QTFBack_InActive.png</file>
+        <file>Support/Images/QTFHome_Active.png</file>
+        <file>Support/Images/QTFHome_Selected.png</file>
+        <file>Support/Images/QTFHome_Tap.png</file>
+        <file>Support/Images/QTFSettings_Active.png</file>
+        <file>Support/Images/QTFSettings_Selected.png</file>
+        <file>Support/Images/QTFSettings_Tap.png</file>
+        <file>Support/Images/QTFEventLog_Active.png</file>
+        <file>Support/Images/QTFEventLog_Selected.png</file>
+        <file>Support/Images/QTFEventLog_Tap.png</file>
+        <file>Support/Images/QTFBurette_Active.png</file>
+        <file>Support/Images/QTFBurette_Selected.png</file>
+        <file>Support/Images/QTFBurette_Tap.png</file>
+        <file>Support/Images/QTFMeasure_Active.png</file>
+        <file>Support/Images/QTFMeasure_Selected.png</file>
+        <file>Support/Images/QTFMeasure_Tap.png</file>
+        <file>Support/Images/QTFMethods_Active.png</file>
+        <file>Support/Images/QTFMethods_Selected.png</file>
+        <file>Support/Images/QTFMethods_Tap.png</file>
+        <file>QML/QTFImageButton.qml</file>
+        <file>QML/QTFIndicator.qml</file>
+        <file>QML/QTFNavBar.qml</file>
+        <file>QML/QTFFlashScreen.qml</file>
+        <file>QML/QTFCheckBox.qml</file>
+        <file>Support/Images/QTFCheckbox_Selected.png</file>
+        <file>Support/Images/QTFCheckbox_Unselected.png</file>
+        <file>QML/QTFRadioButton.qml</file>
+    </qresource>
+</RCC>
